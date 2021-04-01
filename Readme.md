@@ -40,6 +40,6 @@ Neste desafio foi usado às principais seguintes dependências:
 5. visitar a página http://localhost:3000/ no seu browser.
 6. a api do JSON server está no http://localhost:3333/
 
-![Application](https://raw.githubusercontent.com/paulinho68/tdsa-challenge/master/prints/print1.png)
+![Application](https://raw.githubusercontent.com/paulinho68/ignite-reactjs-criando-hook/master/prints/print1.png)
 
-![Application](https://raw.githubusercontent.com/paulinho68/tdsa-challenge/master/prints/print2.png)
+![Application](https://raw.githubusercontent.com/paulinho68/ignite-reactjs-criando-hook/master/prints/print2.png)
