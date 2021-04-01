@@ -32,7 +32,7 @@ Neste desafio foi usado às principais seguintes dependências:
 
 ## Como testar o TDSA-Challange?
 1. clonar este projeto em sua máquina local.
-2. acessar a raiz do projeto através do seu promp de comando.
+2. acessar a raiz do projeto através do seu terminal.
 3. rodar:
     - `npm install` OR `yarn install`
     - `npm run server` OR `yarn server` (rodar este comando em um terminal separado)
