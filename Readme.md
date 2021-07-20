@@ -30,7 +30,7 @@ Neste desafio foi usado às principais seguintes dependências:
 - JSON Server
 - LocalStorage
 
-## Como testar o Rocketseatshoes?
+## Como testar o Rocketshoes?
 1. clonar este projeto em sua máquina local.
 2. acessar a raiz do projeto através do seu terminal.
 3. rodar:
